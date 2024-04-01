@@ -23,9 +23,9 @@ pip list
 ```
 
 ## Usage with Virtual Environment (Optional):
-1. ```console cd <project-path> ```
-2. ```console pip install virtualenv ```
-3. ```console python -m venv <env-name> ```
-4. ```console <env-name>\Scripts\activate.bat ```
+1. ``` cd <project-path> ```
+2. ``` pip install virtualenv ```
+3. ``` python -m venv <env-name> ```
+4. ``` <env-name>\Scripts\activate.bat ```
 5. Install requirements
 6. Open jupyter notebook
